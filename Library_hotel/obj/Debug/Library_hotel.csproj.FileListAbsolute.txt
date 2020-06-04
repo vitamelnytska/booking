@@ -1,0 +1,5 @@
+D:\курсова\booking\Library_hotel\bin\Debug\Library_hotel.dll
+D:\курсова\booking\Library_hotel\bin\Debug\Library_hotel.pdb
+D:\курсова\booking\Library_hotel\obj\Debug\Library_hotel.dll
+D:\курсова\booking\Library_hotel\obj\Debug\Library_hotel.pdb
+D:\курсова\booking\Library_hotel\obj\Debug\Library_hotel.csprojAssemblyReference.cache

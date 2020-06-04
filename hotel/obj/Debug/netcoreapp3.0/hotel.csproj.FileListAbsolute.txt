@@ -1,0 +1,14 @@
+D:\курсова\booking\hotel\bin\Debug\netcoreapp3.0\hotel.exe
+D:\курсова\booking\hotel\bin\Debug\netcoreapp3.0\hotel.deps.json
+D:\курсова\booking\hotel\bin\Debug\netcoreapp3.0\hotel.runtimeconfig.json
+D:\курсова\booking\hotel\bin\Debug\netcoreapp3.0\hotel.runtimeconfig.dev.json
+D:\курсова\booking\hotel\bin\Debug\netcoreapp3.0\hotel.dll
+D:\курсова\booking\hotel\bin\Debug\netcoreapp3.0\hotel.pdb
+D:\курсова\booking\hotel\obj\Debug\netcoreapp3.0\hotel.AssemblyInfoInputs.cache
+D:\курсова\booking\hotel\obj\Debug\netcoreapp3.0\hotel.AssemblyInfo.cs
+D:\курсова\booking\hotel\obj\Debug\netcoreapp3.0\hotel.dll
+D:\курсова\booking\hotel\obj\Debug\netcoreapp3.0\hotel.pdb
+D:\курсова\booking\hotel\bin\Debug\netcoreapp3.0\Library_hotel.dll
+D:\курсова\booking\hotel\bin\Debug\netcoreapp3.0\Library_hotel.pdb
+D:\курсова\booking\hotel\obj\Debug\netcoreapp3.0\hotel.csprojAssemblyReference.cache
+D:\курсова\booking\hotel\obj\Debug\netcoreapp3.0\hotel.csproj.CopyComplete

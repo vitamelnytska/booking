@@ -1,0 +1,87 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Library_hotel/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Library_hotel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Library_hotel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Library_hotel/1.0.0": {
+      "type": "project",
+      "path": "../Library_hotel/Library_hotel.csproj",
+      "msbuildProject": "../Library_hotel/Library_hotel.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "Library_hotel >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Vita2\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\курсова\\booking\\hotel\\hotel.csproj",
+      "projectName": "hotel",
+      "projectPath": "D:\\курсова\\booking\\hotel\\hotel.csproj",
+      "packagesPath": "C:\\Users\\Vita2\\.nuget\\packages\\",
+      "outputPath": "D:\\курсова\\booking\\hotel\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Vita2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "D:\\курсова\\booking\\Library_hotel\\Library_hotel.csproj": {
+              "projectPath": "D:\\курсова\\booking\\Library_hotel\\Library_hotel.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

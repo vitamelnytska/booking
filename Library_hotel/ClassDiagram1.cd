@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Library_hotel.BookOrder">
+    <Position X="9.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAQAgAAAAAAAAQAAAAAAAAIAAABAAAIAAAAAEAAA=</HashCode>
+      <FileName>BookOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_hotel.ExOrder">
+    <Position X="11.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAQAgAAAAAAAAQAAAAAAAAAAAABAAAAAAAAAEAAA=</HashCode>
+      <FileName>ExOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_hotel.Hotel&lt;T&gt;">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AECAgQABACCUIABAAEAABAAAQEEAgAQBBgAiAABAQEg=</HashCode>
+      <FileName>Hotel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_hotel.Order">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQAAAYAgAAAQAAAAQBAAABQAAKAAAJECRYBAIAEEACA=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Library_hotel.OrderEvents">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>OrderEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_hotel.ReserveOrder">
+    <Position X="13.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAQAgAAAAAAAAQAAAAAAAAIAAABAABIAAAAAEAAA=</HashCode>
+      <FileName>ReserveOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Library_hotel.IOrder">
+    <Position X="19.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAYAAAAAQAAAAAAAAAAAAAAAAAAAABIAAAAAEAAA=</HashCode>
+      <FileName>IOrder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Library_hotel.RoomType">
+    <Position X="17.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAIACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hotel.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Library_hotel.UserWish">
+    <Position X="19.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hotel.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="Library_hotel.OrderStateHandler">
+    <Position X="17.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>OrderEvents.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
